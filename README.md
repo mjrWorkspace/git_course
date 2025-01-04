@@ -7,3 +7,5 @@ which files changed , which files added to stage or which files aren't in stage
 and ... </p>
 <h3>git add</h3>
 <p>with this command we can changed files or new files add to stage</p>
+<h3>git commit</h3>
+<p>with git commit we can commit files to local repository</p>
